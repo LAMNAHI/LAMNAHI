@@ -16,7 +16,7 @@ def somme_nombres_pairs(n):
         somme += i
     return somme
 
-# Demander à l'utilisateur d'entrer un nombre
+# Demander à l'utilisateur d'entrer un nombre 84
 nombre_limite = int(input("Entrez un nombre entier : "))
 
 # Calculer la somme des nombres pairs jusqu'au nombre donné
